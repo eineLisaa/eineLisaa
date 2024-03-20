@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eineLisaa
 - 👀 I’m interested in medicine
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on idk D:
+- 💞️ Student @HochschuleMannheim
 - 📫 How to reach me Discord @einelisa
 
 <!---
