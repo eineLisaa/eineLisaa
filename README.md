@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eineLisaa
 - 👀 I’m interested in medicine
 - 🌱 I’m currently learning java
-- 💞️ medical informatics Student @HochschuleMannheim
-- 📫 How to reach me Discord @einelisa
+- 🩺 Medical informatics Student 
+- 📫 How to reach me: Discord @einelisa
 
 <!---
 eineLisaa/eineLisaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
