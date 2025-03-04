@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eineLisaa
 - 👀 I’m interested in medicine
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java & python
 - 🩺 Medical informatics Student 
 - 📫 How to reach me: Discord @einelisa
 
